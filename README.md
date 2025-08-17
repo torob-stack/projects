@@ -12,7 +12,7 @@ A selection of projects that reflect my work across systems programming, secure 
 - Features an animated spin simulation with ANSI colors and configurable options.
 - Includes table-driven unit tests to ensure correctness and reliability.
 
-[View Repository](https://github.com/torob-stack/roulette-cli)
+[View Repository](https://github.com/torob-stack/roulette)
 
 ---
 
