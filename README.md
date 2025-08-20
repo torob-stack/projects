@@ -9,7 +9,7 @@ A selection of projects that reflect my work across systems programming, secure 
 - Built an interactive European roulette game for the terminal, developed and tested on Ubuntu.
 - Structured with a modular architecture and evaluators for different bet types.
 - Added balance tracking, stake validation, and an ASCII-rendered roulette table.
-- Features an animated spin simulation with ANSI colors and configurable options.
+- Features an animated spin simulation with ANSI colours and configurable options.
 - Includes table-driven unit tests to ensure correctness and reliability.
 
 [View Repository](https://github.com/torob-stack/roulette)
