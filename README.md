@@ -22,10 +22,19 @@ A selection of projects that reflect my work across systems programming, secure 
 - Combined anomaly detection (Random Forest, Isolation Forest) with blockchain-based forensic logging.  
 - Deployed Solidity smart contracts to Ethereum testnet for tamper-proof event storage.
 
-[View Repository](https://github.com/torob-stack/ransomware-detection-ml-blockchain)
+[View Repository](https://github.com/torob-stack/AI-practice)
 
 ---
 
+## AI Business Systems Prototypes
+**technologies:** Python, LangChain, OpenAI API, ChromaDB
+- Built two prototypes to explore practical AI for business systems:
+  - RAG Chatbot → loads PDFs, chunks and embeds text, then answers document-based questions with structured JSON outputs (answer, summary, sources).
+  - Prompt Playground → experiments with summarization, skill extraction into strict JSON, text classification, and Markdown table formatting.
+- Emphasized deterministic outputs with low temperature settings for reliability.
+- Documented learnings around retrieval-augmented generation, prompt engineering, and API security practices.
+
+[View Repository](https://github.com/torob-stack/ransomware-detection-ml-blockchain)
 ## KeyStash – Secure Password Manager  
 **Technologies:** Python, Flask, Cryptography  
 - Full-stack web app with hashed login (bcrypt) and AES-encrypted credential storage.  
