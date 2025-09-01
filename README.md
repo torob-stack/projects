@@ -30,7 +30,7 @@ A selection of projects that reflect my work across systems programming, secure 
 **technologies:** Python, LangChain, OpenAI API, ChromaDB
 - Built two prototypes to explore practical AI for business systems:
   - RAG Chatbot → loads PDFs, chunks and embeds text, then answers document-based questions with structured JSON outputs (answer, summary, sources).
-  - Prompt Playground → experiments with summarization, skill extraction into strict JSON, text classification, and Markdown table formatting.
+  - Prompt Practice → experiments with summarization, skill extraction into strict JSON, text classification, and Markdown table formatting.
 - Emphasized deterministic outputs with low temperature settings for reliability.
 - Documented learnings around retrieval-augmented generation, prompt engineering, and API security practices.
 
