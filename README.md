@@ -16,6 +16,18 @@ A selection of projects that reflect my work across systems programming, secure 
 
 ---
 
+## Emoji Slot Machine 🎰 (C# WinForms)  
+**Technologies:** C#, .NET (WinForms), GUI Programming  
+- A playful slot machine game featuring emoji reels, betting system, and win logic.  
+- Implemented a spin animation using Windows Forms `Timer` and event-driven UI updates.  
+- Balance and stake validation ensure realistic gameplay mechanics.  
+- Designed to demonstrate C# proficiency and front-end GUI design.  
+
+
+[View Repository](https://github.com/torob-stack/EmojiSlotsGUI)
+
+---
+
 ## Resilient Ransomware Detection & Logging System  
 **Technologies:** Python, Machine Learning, Solidity, Blockchain  
 - Final-year university project, awarded First Class.  
@@ -35,6 +47,9 @@ A selection of projects that reflect my work across systems programming, secure 
 - Documented learnings around retrieval-augmented generation, prompt engineering, and API security practices.
 
 [View Repository](https://github.com/torob-stack/ransomware-detection-ml-blockchain)
+
+---
+
 ## KeyStash – Secure Password Manager  
 **Technologies:** Python, Flask, Cryptography  
 - Full-stack web app with hashed login (bcrypt) and AES-encrypted credential storage.  
