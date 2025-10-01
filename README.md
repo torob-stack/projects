@@ -24,7 +24,7 @@ A selection of projects that reflect my work across systems programming, secure 
 - Designed to demonstrate C# proficiency and front-end GUI design.  
 
 
-[View Repository](https://github.com/torob-stack/EmojiSlotsGUI)
+[View Repository](https://github.com/torob-stack/c-EmojiSlots)
 
 ---
 
